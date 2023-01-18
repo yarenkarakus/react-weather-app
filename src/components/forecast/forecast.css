@@ -24,6 +24,7 @@
   flex: 1 1;
   font-weight: 600;
   margin-left: 15px;
+  cursor: pointer;
 }
 
 .description {
@@ -52,6 +53,7 @@
   height: 30px;
   justify-content: space-between;
   align-items: center;
+  border-bottom: 1px solid #fff;
 }
 
 .daily-details-grid-item label:first-child {
